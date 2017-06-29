@@ -1,6 +1,6 @@
 import { TradermanPage } from './app.po';
 
-describe('traderman App', () => {
+describe('my-heroes App', () => {
   let page: TradermanPage;
 
   beforeEach(() => {
